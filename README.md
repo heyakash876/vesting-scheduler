@@ -2,9 +2,7 @@
 
 This is a simple vesting scheduler app for organizations to create ERC20 tokens and for shareholders to withdraw their vested tokens
 
-## Companion Video
 
-[Loom Companion Video](https://www.loom.com/share/5c53b77c4af740c192868c7c6a9eebab?sid=1d09010b-2ae3-42dc-87d1-97ff080b8579)
 
 ## Problem Statement
 
